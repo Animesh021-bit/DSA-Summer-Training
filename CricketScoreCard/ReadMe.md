@@ -114,7 +114,7 @@ CRICKET TOURNAMENT SCORECARD
 
 ## 👩‍💻 About
 
-Built by **[SWATI SWAROOP]** as a C programming practice project.  
+Built by **[Animesh Mandal]** as a C programming practice project.  
 Concepts used: structs, arrays, loops, sorting, formatted output, input validation.
 
 ---
